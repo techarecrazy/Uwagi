@@ -1,0 +1,22 @@
+body {
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: 'Nunito';
+    font-weight: 600; 
+    background: #fff8cd;
+}
+
+tło {
+    border-radius: 15px;
+    background: url(https://www.uwagiszkolne.pl/static/uwagi/pusteuwagi.png);
+    background-size: cover;
+    aspect-ratio: 1;
+    place-content: center;
+    display: grid;
+}
+
+uwaga {
+    font-weight: 900;
+    font-size: 32px;
+}
