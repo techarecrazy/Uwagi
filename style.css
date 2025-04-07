@@ -13,6 +13,7 @@ tło {
     background-size: cover;
     aspect-ratio: 1;
     place-content: center;
+    text-align: center;
     display: grid;
 }
 
