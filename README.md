@@ -1,1 +1,2 @@
 # Uwagi
+Generator uwag
