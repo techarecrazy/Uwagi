@@ -1,6 +1,6 @@
-@media all and (max-width: 360px) {html {font-size: 10px;}}
-@media all and (max-width: 900px) {html {font-size: 14px;}}
-@media all and (max-width: 1050px) {html {font-size: 14px;}}
+@media all and (max-width: 360px) {body {font-size: 10px;}}
+@media all and (max-width: 900px) {body {font-size: 14px;}}
+@media all and (max-width: 1050px) {body {font-size: 14px;}}
 
 body {
     max-width: 42rem;
