@@ -3,7 +3,7 @@
 @media all and (max-width: 1050px) {body {font-size: 14px;}}
 
 body {
-    max-width: 42rem;
+    max-width: 490px;
     margin: 0 auto;
     padding: 1rem;
     font-family: 'Nunito';
@@ -16,7 +16,6 @@ tło {
     background: url(https://www.uwagiszkolne.pl/static/uwagi/pusteuwagi.png);
     background-size: cover;
     aspect-ratio: 1;
-    max-width: 490px;
     place-content: center;
     text-align: center;
     display: grid;
