@@ -1,5 +1,5 @@
 body {
-    max-width: 40em;
+    max-width: 42rem;
     margin: 0 auto;
     padding: 1rem;
     font-family: 'Nunito';
@@ -23,7 +23,6 @@ tło {
 
 uwaga {
     font-weight: 900;
-    font-size: 1.8rem;
     word-break: break-word;
     margin: 0 38px;
 }
