@@ -16,6 +16,7 @@ tło {
     background: url(https://www.uwagiszkolne.pl/static/uwagi/pusteuwagi.png);
     background-size: cover;
     aspect-ratio: 1;
+    max-width: 490px;
     place-content: center;
     text-align: center;
     display: grid;
