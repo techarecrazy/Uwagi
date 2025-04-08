@@ -11,7 +11,7 @@ body {
     background: #fff8cd;
 }
 
-tło {
+uwaga {
     border-radius: 15px;
     background: url(https://www.uwagiszkolne.pl/static/uwagi/pusteuwagi.png);
     background-size: cover;
@@ -19,9 +19,6 @@ tło {
     place-content: center;
     text-align: center;
     display: grid;
-}
-
-uwaga {
     font-weight: 900;
     font-size: 1.25rem;
     word-break: break-word;
